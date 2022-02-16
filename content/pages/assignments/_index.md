@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: The 31st Annual MELUS ConferenceAssignments
 uid: 552a1762-05fb-6b0f-9b6f-9b9206e27674
 ---

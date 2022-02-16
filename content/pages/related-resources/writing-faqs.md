@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Related Resources
+parent_type: CourseSection
 parent_uid: 119606d3-1306-a589-6b1b-c3fac9a895a0
 title: Writing FAQs
 uid: 0b3198f4-666e-4307-08b7-6cb230d982a2

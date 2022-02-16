@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Related Resources
+parent_type: CourseSection
 parent_uid: 119606d3-1306-a589-6b1b-c3fac9a895a0
 title: A Brief History of Literature in the Western Canon
 uid: 32169701-6fd3-a7fd-40f8-cf9d4cfe692b

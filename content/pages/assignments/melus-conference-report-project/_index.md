@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: The 31st Annual MELUS ConferenceAssignments
+parent_type: CourseSection
 parent_uid: 552a1762-05fb-6b0f-9b6f-9b9206e27674
 title: MELUS Conference Report/Project
 uid: 81724b5a-f45f-dd68-4a08-4662f89d6418

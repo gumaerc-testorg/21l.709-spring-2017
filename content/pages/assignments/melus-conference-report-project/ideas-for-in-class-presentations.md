@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: MELUS Conference Report/Project
+parent_type: CourseSection
 parent_uid: 81724b5a-f45f-dd68-4a08-4662f89d6418
 title: Ideas for In-Class Presentations
 uid: be5f3954-3564-6178-d585-60325b947f80
