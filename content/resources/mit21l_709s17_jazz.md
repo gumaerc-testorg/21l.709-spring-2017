@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 119606d3-1306-a589-6b1b-c3fac9a895a0
 resourcetype: Document
 title: MIT21L_709S17_Jazz
 uid: d25630b4-8ce4-adc5-d43b-a7f79e26a048

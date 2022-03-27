@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: The 31st Annual MELUS ConferenceAssignments
 parent_type: CourseSection
+parent_uid: 552a1762-05fb-6b0f-9b6f-9b9206e27674
 resourcetype: Document
 title: MIT21L_709S17_Essay3_Personal_Identity
 uid: 8a9772c6-7668-22d3-3b7f-4e267f766682

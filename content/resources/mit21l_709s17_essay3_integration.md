@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: The 31st Annual MELUS ConferenceAssignments
 parent_type: CourseSection
+parent_uid: 552a1762-05fb-6b0f-9b6f-9b9206e27674
 resourcetype: Document
 title: MIT21L_709S17_Essay3_Integration
 uid: c6624d9b-dcc9-687b-120a-c6b75f65b789
