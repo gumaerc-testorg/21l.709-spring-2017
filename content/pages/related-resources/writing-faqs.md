@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of frequently asked questions pertaining
+  to writing.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Related Resources

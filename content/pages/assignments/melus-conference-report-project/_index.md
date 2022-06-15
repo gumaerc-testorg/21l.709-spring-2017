@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains details and assignment guidelines for the MELUS
+  Conference Report/Project.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: The 31st Annual MELUS ConferenceAssignments
@@ -18,7 +20,7 @@ In weeks 11 and 12, we break from our typical classroom activities to attend and
 
 **Week 10**
 
-1.  Research your topic in whatever ways are most appropriate: searching scholarly databases at MIT Libraries; scanning more recent materials—reviews, interviews, or blogs; contacting a panelist or speaker for advice or an interview (see “[Ideas for In-Class Presentation]({{< baseurl >}}/pages/assignments/melus-conference-report-project/ideas-for-in-class-presentations)”).
+1.  Research your topic in whatever ways are most appropriate: searching scholarly databases at MIT Libraries; scanning more recent materials—reviews, interviews, or blogs; contacting a panelist or speaker for advice or an interview (see “{{% resource_link be5f3954-3564-6178-d585-60325b947f80 "Ideas for In-Class Presentation" %}}”).
 2.  Ask me to send you the abstract of any paper/panel you plan to attend. A word of caution: usually written six months before the conference takes place, these tend to be general, abstract in more ways than one. They can give you a sense, though, of the speaker’s approach, perhaps even a brief bibliography.
 
 **Weeks 11–12**

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains a list of further readings and resources for the
+  course. '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -9,10 +11,9 @@ uid: 119606d3-1306-a589-6b1b-c3fac9a895a0
 Further Readings
 ----------------
 
-[A Brief History of Literature in the Western Canon  
-]({{< baseurl >}}/pages/related-resources/a-brief-history-of-literature-in-the-western-canon)With apologies for the broad generalizations . . .
+{{% resource_link "32169701-6fd3-a7fd-40f8-cf9d4cfe692b" "A Brief History of Literature in the Western Canon   " %}}With apologies for the broad generalizations . . .
 
-Freud, Sigmund.![This resource may not render correctly in a screen reader.](/images/inacessible.gif) ["The ‘Uncanny’." (PDF)](http://www.arch.mcgill.ca/prof/bressani/arch653/winter2010/Freud_TheUncanny.pdf) _The Standard Edition of the Complete Psychological Works of Sigmund Freud, Volume XVII (1917–1919): An Infantile Neurosis and Other Works_, pp. 217–256.
+Freud, Sigmund. ["The ‘Uncanny’." (PDF)](http://www.arch.mcgill.ca/prof/bressani/arch653/winter2010/Freud_TheUncanny.pdf) _The Standard Edition of the Complete Psychological Works of Sigmund Freud, Volume XVII (1917–1919): An Infantile Neurosis and Other Works_, pp. 217–256.
 
 Saldaña, Stephanie. "[In a Refugee's Bags, Memories of Home](https://www.nytimes.com/2017/03/11/opinion/sunday/in-a-refugees-bags-memories-of-home.html?ref=opinion)." _The New York Times_. March 11, 2017.
 
@@ -49,7 +50,7 @@ News about Junot Díaz, including commentary and archival articles published in 
 
 "[Toni Morrison - Nobel Lecture](https://www.nobelprize.org/nobel_prizes/literature/laureates/1993/morrison-lecture.html)." _Nobelprize.org_. Nobel Media AB, 2014.
 
-[Images from the World of Toni Morrison's _Jazz_ (PDF - 3.2MB)]({{< baseurl >}}/resources/mit21l_709s17_jazz)
+{{% resource_link d25630b4-8ce4-adc5-d43b-a7f79e26a048 "Images from the World of Toni Morrison's _Jazz_ (PDF - 3.2MB)" %}}
 
 **Dion Boucicault and Brandon Jacobs-Jenkins**
 
@@ -73,7 +74,7 @@ Marks, Peter. "[Nothing is Black and White in Branden Jacobs-Jenkins’s ‘An O
 Resources
 ---------
 
-[MLA Works Cited Format]({{< baseurl >}}/pages/related-resources/mla-works-cited-format)
+{{% resource_link 6631c79f-9629-c5ba-c80e-a8e316ac2ac8 "MLA Works Cited Format" %}}
 
 [MIT Libraries Literature Research Guide](https://libguides.mit.edu/lit)
 
@@ -90,7 +91,7 @@ Perelman, Leslie C., James Paradis, and Edward Barrett. [The Mayfield Handbook o
 
 _Spotlight on Grammar and Style_
 
-[Writing FAQs]({{< baseurl >}}/pages/related-resources/writing-faqs)
+{{% resource_link 0b3198f4-666e-4307-08b7-6cb230d982a2 "Writing FAQs" %}}
 
 Corbett, Philip B."[Begging the Question, Again](https://afterdeadline.blogs.nytimes.com/2008/09/25/begging-the-question-again/)." _The New York Times_. September 25, 2008.
 

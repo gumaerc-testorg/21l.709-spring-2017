@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: A guide on MLA works cited format from the instructor.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Related Resources

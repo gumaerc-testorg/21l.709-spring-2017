@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains guidelines for the course assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: The 31st Annual MELUS ConferenceAssignments
@@ -9,7 +10,7 @@ uid: 552a1762-05fb-6b0f-9b6f-9b9206e27674
 Snow Day Assignment
 -------------------
 
-Due to inclement weather MIT students completed a [Snow Day Assignment]({{< baseurl >}}/pages/assignments/snow-day-assignment) in lieu of a lecture for Session 2. This assignment was due the day after Session 2 was supposed to take place.
+Due to inclement weather MIT students completed a {{% resource_link fddc44be-d89e-feb3-2a01-21ccb980da48 "Snow Day Assignment" %}} in lieu of a lecture for Session 2. This assignment was due the day after Session 2 was supposed to take place.
 
 Essays
 ------
@@ -69,15 +70,15 @@ _Example paper topics:_
 
 _Example student work_
 
-[“Disruption to Personal Identity in Ruth Ozeki’s _A Tale for the Time Being_” (PDF)]({{< baseurl >}}/resources/mit21l_709s17_essay3_personal_identity) - Courtesy of Isabel Chien and used with permission.
+{{% resource_link 8a9772c6-7668-22d3-3b7f-4e267f766682 "“Disruption to Personal Identity in Ruth Ozeki’s _A Tale for the Time Being_” (PDF)" %}} - Courtesy of Isabel Chien and used with permission.
 
-[“Where's the Melting Pot?: The Lack of American Integration in Mohsin Hamid's _The Reluctant Fundamentalist_” (PDF)]({{< baseurl >}}/resources/mit21l_709s17_essay3_integration) - Courtesy of Nwamaka Amobi and used with permission.
+{{% resource_link c6624d9b-dcc9-687b-120a-c6b75f65b789 "“Where's the Melting Pot?: The Lack of American Integration in Mohsin Hamid's _The Reluctant Fundamentalist_” (PDF)" %}} - Courtesy of Nwamaka Amobi and used with permission.
 
 **MELUS Conference Report/Project**
 
 Due: Sessions 19 and 21
 
-For [Conference Reports]({{< baseurl >}}/pages/assignments/melus-conference-report-project), students attended [The 31st Annual MELUS Conference](https://networks.h-net.org/node/2606/discussions/144880/cfp-melus-31st-annual-conference-mit-april-27-30-2017) and wrote a report describing their experience.
+For {{% resource_link 81724b5a-f45f-dd68-4a08-4662f89d6418 "Conference Reports" %}}, students attended [The 31st Annual MELUS Conference](https://networks.h-net.org/node/2606/discussions/144880/cfp-melus-31st-annual-conference-mit-april-27-30-2017) and wrote a report describing their experience.
 
 Note: Grading for the MELUS project involves two parts of equal weight. The report has been evaluated on the basis of the assignment guidelines, with consideration given to: research (use of materials, works cited) and relevance (ideas, discussion questions). Evaluation of the reflection is based on evidence of significant engagement with the conference, as shown in expression of ideas and critical handling of details.
 

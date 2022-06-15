@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains instructor notes on A Brief History of Literature
+  in the Western Canon.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Related Resources

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains guidelines for the in-class presentations that
+  accompanied the MELUS report/project.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: MELUS Conference Report/Project
@@ -29,4 +31,4 @@ When you report to the class, try to connect what you saw or learned with themes
 5.  Interview MIT faculty and staff involved in the conference: Conference Committee members—[Prof. Sandy Alexandre](https://lit.mit.edu/people/salexandre/), [Joaquin Terrones](https://lit.mit.edu/people/jterrones/) (lecturer in [Literature](https://lit.mit.edu/)), [Alicia Mackin](https://lit.mit.edu/people/amackin/) (administrator); or panelists [Ana Schwartz](https://lit.mit.edu/people/ana-schwartz/) and [Lillian Mengesha](https://lit.mit.edu/people/lilian-mengesha/) (Mellon Predoctoral Fellows in Literature), or [John Picker](https://lit.mit.edu/people/jpicker/) (lecturer in [Comparative Media Studies/Writing](https://cmsw.mit.edu/)). If you know [Rosa Martinez](https://lit.mit.edu/people/rmartinez/) or [Theresa Rojas](http://cmsw.mit.edu/profile/theresa-rojas/) from when they were Mellon Fellows at MIT, they will be attending the conference as well. If you establish contact with a panelist who interests you, you may be able to interview that person during the conference or beforehand by Skype.
 6.  If you have photographic skills, create a photo essay on the conference, using images to convey its distinctive flavor and surprising moments.
 
-_[Return to MELUS Conference Report/Project]({{< baseurl >}}/pages/assignments/melus-conference-report-project)_
+_{{% resource_link 81724b5a-f45f-dd68-4a08-4662f89d6418 "Return to MELUS Conference Report/Project" %}}_
