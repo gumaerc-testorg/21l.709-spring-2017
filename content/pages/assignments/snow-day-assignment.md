@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: "This section contains assignment details for a paper on Dion Boucicault\u2019\
+  s The Octoroon and Branden Jacobs-Jenkins\u2019s An Octoroon."
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: The 31st Annual MELUS ConferenceAssignments
+parent_type: CourseSection
 parent_uid: 552a1762-05fb-6b0f-9b6f-9b9206e27674
 title: Snow Day Assignment
 uid: fddc44be-d89e-feb3-2a01-21ccb980da48

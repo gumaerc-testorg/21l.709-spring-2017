@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: A guide on MLA works cited format from the instructor.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Related Resources
+parent_type: CourseSection
 parent_uid: 119606d3-1306-a589-6b1b-c3fac9a895a0
 title: MLA Works Cited Format
 uid: 6631c79f-9629-c5ba-c80e-a8e316ac2ac8
