@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Student work for Essay 3 titled, "Where''s the Melting Pot?: The Lack
   of American Integration in Mohsin Hamid''s The Reluctant Fundamentalist."'
-file: /courses/21l-709-ethnic-literature-in-america-spring-2017/c6624d9bdcc9687b120ac6b75f65b789_MIT21L_709S17_Essay3_Integration.pdf
+file: /ol-ocw-studio-app/courses/21l-709-ethnic-literature-in-america-spring-2017/c6624d9bdcc9687b120ac6b75f65b789_MIT21L_709S17_Essay3_Integration.pdf
 file_size: 331746
 file_type: application/pdf
 learning_resource_types: []
