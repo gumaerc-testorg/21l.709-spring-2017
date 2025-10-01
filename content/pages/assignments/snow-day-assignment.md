@@ -18,8 +18,8 @@ How did you like the two plays you read for today? What questions do they raise 
 In an attempt to reproduce the contents of today’s class on Dion Boucicault’s _The Octoroon_ (1859) and Branden Jacobs-Jenkins’s _An Octoroon_ (2014), please read the following:
 
 *   Banham, Martin, ed. "Melodrama." In _The Cambridge Guide to Theatre_. 2nd edition. Cambridge University Press, 1995. ISBN: 9780521434379.
-*   Howes, Marjorie. "[Melodramatic Conventions and Atlantic History in Dion Boucicault](https://muse.jhu.edu/article/458539)." _Éire-Ireland_ 46, no. 3 (2011): 84–101.
-*   Foster, Verna A. "[Meta-Melodrama: Branden Jacobs-Jenkins Appropriates Dion Boucicault’s _The Octoroon_](https://muse.jhu.edu/article/629588)." _Modern Drama_ 59, no. 3 (2016): 285–305.
+*   Howes, Marjorie. "{{% resource_link "5da71302-a7dd-43f3-98cf-8021ef0c06d3" "Melodramatic Conventions and Atlantic History in Dion Boucicault" %}}." _Éire-Ireland_ 46, no. 3 (2011): 84–101.
+*   Foster, Verna A. "{{% resource_link "7793cd51-69e5-43cb-b36e-7d6f28a13599" "Meta-Melodrama: Branden Jacobs-Jenkins Appropriates Dion Boucicault’s _The Octoroon_" %}}." _Modern Drama_ 59, no. 3 (2016): 285–305.
 
 For today’s discussion, please consider this question:
 
