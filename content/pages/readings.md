@@ -10,15 +10,15 @@ uid: 536382e0-ef6f-655a-0573-05d0a16861ee
 
 \[TM\] = Morrison, Toni. _Jazz_. Reprint edition. Vintage, 2004. ISBN: 9781400076215.
 
-\[JD\] = Díaz, Junot. _The Brief Wondrous Life of Oscar Wao_. Reprint edition. Riverhead Books, 2008. ISBN: 9781594483295. \[Preview with {{% resource_link "664a809b-9957-4022-adae-b04e61a01819" "Google Books" %}}\]
+\[JD\] = Díaz, Junot. _The Brief Wondrous Life of Oscar Wao_. Reprint edition. Riverhead Books, 2008. ISBN: 9781594483295. \[Preview with [Google Books](https://books.google.com/books?id=_YVO217NhC0C&lpg=PP1&dq=junot%20diaz%20the%20brief%20wondrous&pg=PP1#v=onepage&q&f=false)\]
 
 \[MK\] = Kahf, Mohja. _The Girl in the Tangerine Scarf_. PublicAffairs, 2006. ISBN: 9780786715190.
 
-\[LE\] = Erdrich, Louise. _The Round House_. Reprint edition. Harper Perennial, 2013. ISBN: 9780062065254. \[Preview with {{% resource_link "f5e7df17-2dfe-4495-8bcc-ff494d13c6c1" "Google Books" %}}\]
+\[LE\] = Erdrich, Louise. _The Round House_. Reprint edition. Harper Perennial, 2013. ISBN: 9780062065254. \[Preview with [Google Books](https://books.google.com/books?id=ZQqqbkGOEr8C&lpg=PP1&dq=Louise%20Erdrich%2C%20The%20Round%20House&pg=PP1#v=onepage&q&f=false)\]
 
 \[MH\] = Hamid, Mohsin. _The Reluctant Fundamentalist_. Harvest Books, 2008. ISBN: 9780156034029.
 
-\[RO\] = Ozeki, Ruth. _A Tale for the Time Being_. Penguin Books, 2013. ISBN: 9780143124870. \[Preview with {{% resource_link "dc5096c3-6ca1-4b71-98fc-3d9d3da8833f" "Google Books" %}}\]
+\[RO\] = Ozeki, Ruth. _A Tale for the Time Being_. Penguin Books, 2013. ISBN: 9780143124870. \[Preview with [Google Books](https://books.google.com/books?id=lsItpf9T9qAC&lpg=PP1&dq=Ruth%20Ozeki%2C%20A%20Tale%20for%20the%20Time%20Being&pg=PP1#v=onepage&q=Ruth%20Ozeki,%20A%20Tale%20for%20the%20Time%20Being&f=false)\]
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -58,7 +58,7 @@ _The Octoroon_
 {{< tdopen >}}
 
 
-Boucicault, Dion. {{% resource_link "2f4ec5b0-2a1b-4d20-be65-890a67852ec0" "_The Octoroon_. (PDF)" %}}
+Boucicault, Dion. [_The Octoroon_. (PDF)](http://www.searchengine.org.uk/ebooks/70/69.pdf)
 
 Jacobs-Jenkins, Branden. _An Octoroon_. Dramatist's Play Service, 2015. ISBN: 9780822232261.
 
@@ -252,7 +252,7 @@ _Stars in My Pocket Like Grains of Sand_
 {{< tdopen >}}
 
 
-Delany, Samuel R. "Excerpt to pg. 92." In _Stars in My Pocket Like Grains of Sand_. 20th edition. Wesleyan, 2004. ISBN: 9780819567147. \[Preview with {{% resource_link "2cbab664-1453-48e3-bbbe-ccc8854e1346" "Google Books" %}}\]
+Delany, Samuel R. "Excerpt to pg. 92." In _Stars in My Pocket Like Grains of Sand_. 20th edition. Wesleyan, 2004. ISBN: 9780819567147. \[Preview with [Google Books](https://books.google.com/books?id=bRAFCAAAQBAJ&lpg=PP1&dq=Samuel%20Delany%2C%20Stars%20in%20My%20Pocket%20Like%20Grains%20of%20Sand&pg=PP1#v=onepage&q&f=false)\]
 
 
 {{< tdclose >}}
@@ -311,14 +311,14 @@ No assigned readings
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Special Guest: {{% resource_link "ec8a9575-7726-4b4c-891b-9678bcab6ff2" "Mia Heavener" %}}
+Special Guest: [Mia Heavener](https://www.alaskapacific.edu/people/mia-heavener/)
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 Excerpt from Mia Heavener's forthcoming book, _Under Nushagak Bluff_, from Red Hen Press (not available). OCW users may read the following story as a substitution:
 
-Heavener, Mia C. "{{% resource_link "9deab80d-4b13-43b9-8544-a55c7ec3d420" "Blurry" %}}." _The Cortland Review_. May 2011.
+Heavener, Mia C. "[Blurry](http://www.cortlandreview.com/issue/51/heavener_f.html)." _The Cortland Review_. May 2011.
 
 
 {{< tdclose >}}

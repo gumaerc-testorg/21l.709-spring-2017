@@ -275,7 +275,7 @@ Conference Reports
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Special Guest: {{% resource_link "ec8a9575-7726-4b4c-891b-9678bcab6ff2" "Mia Heavener" %}}
+Special Guest: [Mia Heavener](https://www.alaskapacific.edu/people/mia-heavener/)
 {{< tdclose >}}
 {{< tdopen >}}
  
